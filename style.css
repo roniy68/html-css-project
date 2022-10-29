@@ -9,14 +9,32 @@
         padding: 15px;
         border-radius: 5px;
         background: #eee;
-        text-align: center;
+        line-height: normal;
 }
-#tiltle{
-    
-   
-}
+
 #img-div{
     background-color: white;
     padding: 0px, 50px;
    
+}
+
+#footer{
+    text-align: center;
+    font-weight: 800;
+    font-size: 25px;
+}
+#Borlaug{
+    text-align: center;
+}
+#list{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    line-height: 30px;
+    font-size: 18px;
+    padding: 0px 300px;
+    margin: 10px 10px;
+}
+#second-heading{
+    text-align: center;
 }
